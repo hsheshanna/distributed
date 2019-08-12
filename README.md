@@ -3,7 +3,7 @@ Easy to use and beautiful restrospective board.
 
 Learn more about retrospectives at [funretrospectives.com](http://funretrospectives.com)
 
-[![Build](https://travis-ci.org/funretro/distributed.svg?branch=master)](https://travis-ci.org/funretro/distributed)
+[![Build](https://travis-ci.org/hsheshanna/distributed.svg?branch=master)](https://travis-ci.org/hsheshanna/distributed)
 <a href="https://codeclimate.com/github/funretro/distributed"><img src="https://codeclimate.com/github/glauberramos/fireideaz/badges/gpa.svg" /></a>&nbsp;[![devDependency Status](https://david-dm.org/funretro/distributed/dev-status.svg)](https://david-dm.org/funretro/distributed#info=devDependencies)
 
 ## How to setup local environment
@@ -49,7 +49,7 @@ Take a look on our [Contributing](https://github.com/funretro/distributed/blob/m
 
 ## Continuous Integration
 
-Our tests run on [TravisCI](https://travis-ci.org/funretro/distributed)
+Our tests run on [TravisCI](https://travis-ci.org/hsheshanna/distributed)
 
 ## Running the tests
 

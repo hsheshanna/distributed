@@ -162,3 +162,4 @@ gulp.task("default", ["bundle", "copy", "express", "livereload", "watch"]);
 gulp.task("test", ["lint", "watch-test"]);
 gulp.task("testci", ["lint", "test-once"]);
 gulp.task("build", ["clean-dist", "bundle", "copy"]);
+gulp.task("start", ["express"]);
